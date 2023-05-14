@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Node.js<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with full stack projects<br>💬 Ask me about web development <br>
+🌱 I’m currently learning Node.js<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with full stack projects<br>💬 Ask me about web development <br>⚡ Fun fact - I am not  smart but hard working
 
 
 ## 🌐 Socials:
