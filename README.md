@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning K8S <br>🤝 I’m looking to collaborate on open source projects<br>💬 Ask me about web dev and devops
+ <br>🤝 I’m looking to collaborate on open source projects<br>💬 Ask me about web dev and devops
 
 
 ## 🌐 Socials:
