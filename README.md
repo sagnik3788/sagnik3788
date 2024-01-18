@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Open source projects**
 
-- 🌱 I’m currently learning **Cloud native**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sagnik3788](https://github.com/sagnik3788)
 
 - 📝 I regularly write articles on [https://hashnode.com/@sagnik3788](https://hashnode.com/@sagnik3788)
