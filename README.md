@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@sagnik3788](https://hashnode.com/@sagnik3788)
 
-- 💬 Ask me about **cloud**
+- 💬 Ask me about **mlops**
 
 - 📫 How to reach me **sagnikdas5432@gmail.com**
 
