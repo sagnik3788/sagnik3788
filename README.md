@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sagnikdas5432@gmail.com**
   
-- ⚒️ My Site [sagnikk.me](https://sagnikk.me/)
+- ⚒️ My Site [sagnikk.com](https://sagnikk.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
