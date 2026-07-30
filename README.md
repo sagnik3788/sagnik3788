@@ -6,8 +6,8 @@ My work primarily involves around AI Infra, ML research, kernels, contributing t
 
 ## My Work
 
-- [slm-turbo](https://github.com/sagnik3788/slm-turbo) - Profile and auto-tune local AI for your specific GPU.
 - [kitsune](https://github.com/sagnik3788/kitsune) - State machine harness for AI agent tool enforcement.
+- [slm-turbo](https://github.com/sagnik3788/slm-turbo) - Profile and auto-tune local AI for your specific GPU.
 - [zerch](https://github.com/sagnik3788/zerch) - Semantic log search engine for AI agents and humans.
 - [FlowCD](https://github.com/sagnik3788/FlowCD) - Lightweight GitOps controller for Kubernetes.
 - [dappergo](https://github.com/sagnik3788/dappergo) - Distributed tracing library inspired by Google's Dapper.
